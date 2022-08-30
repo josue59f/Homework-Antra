@@ -1,0 +1,82 @@
+.title {
+  text-align: center;
+  font-size: 3vw;
+  margin-bottom: 1vh;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.long {
+  padding-left: 1vw;
+  width: 42vw;
+  height: 5vh;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 0.5vw;
+
+  border-width: 0.1vw;
+}
+
+.shortinput {
+  padding-left: 1vw;
+  height: 5vh;
+  width: 20vw;
+  margin-right: 2vw;
+  border-radius: 0.5vw;
+  border-style: solid;
+  border-color: gray;
+  border-width: 0.1vw;
+}
+a {
+  color: rgb(17, 158, 205);
+  font-style: normal;
+  text-decoration: none;
+}
+
+.center {
+  margin-left: 28vw;
+}
+
+.termstext {
+  margin-left: 3vw;
+  padding-top: 1w;
+  width: 30vw;
+}
+
+.termss {
+  width: 20vw;
+}
+
+.agree {
+  width: 5vw;
+  height: 4vw;
+  margin-left: 0.5vw;
+  padding-top: 2vw;
+  font-weight: bold;
+}
+
+.register {
+  font-size: 1.7vw;
+  color: white;
+  height: 5vh;
+  width: 20vw;
+  margin-right: 2vw;
+  border-radius: 0.5vw;
+  border-style: hidden;
+  border-width: 0.1vw;
+  background-color: rgb(59, 59, 253);
+}
+
+.signin {
+  font-size: 1.7vw;
+  color: white;
+  height: 5vh;
+  width: 20vw;
+  margin-right: 2vw;
+  border-radius: 0.5vw;
+  border-style: hidden;
+  border-width: 0.1vw;
+  background-color: rgb(0, 167, 0);
+}
